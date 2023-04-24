@@ -1,0 +1,8 @@
+C:\Users\mushf\source\repos\RecipeAppPartOne\RecipeAppPartOne\obj\Debug\RecipeAppPartOne.csproj.AssemblyReference.cache
+C:\Users\mushf\source\repos\RecipeAppPartOne\RecipeAppPartOne\obj\Debug\RecipeAppPartOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\mushf\source\repos\RecipeAppPartOne\RecipeAppPartOne\obj\Debug\RecipeAppPartOne.csproj.CoreCompileInputs.cache
+C:\Users\mushf\source\repos\RecipeAppPartOne\RecipeAppPartOne\bin\Debug\RecipeAppPartOne.exe.config
+C:\Users\mushf\source\repos\RecipeAppPartOne\RecipeAppPartOne\bin\Debug\RecipeAppPartOne.exe
+C:\Users\mushf\source\repos\RecipeAppPartOne\RecipeAppPartOne\bin\Debug\RecipeAppPartOne.pdb
+C:\Users\mushf\source\repos\RecipeAppPartOne\RecipeAppPartOne\obj\Debug\RecipeAppPartOne.exe
+C:\Users\mushf\source\repos\RecipeAppPartOne\RecipeAppPartOne\obj\Debug\RecipeAppPartOne.pdb
